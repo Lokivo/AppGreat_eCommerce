@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ivail\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ivail\\.nuget\\packages"
+    ]
+  }
+}
